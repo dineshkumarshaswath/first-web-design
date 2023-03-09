@@ -1,0 +1,38 @@
+body {
+
+    background-color: lightblue;
+
+}
+
+.fa {
+    color: lightskyblue;
+}
+
+.box-part {
+    background-color: beige;
+    margin: 70px 25px;
+    padding: 10px;
+
+
+
+}
+
+.box {
+    margin: 30px 45px;
+}
+
+.text {
+    margin: 5px 5px;
+    font-size: small;
+
+}
+
+a {
+    border-bottom: 2px solid blue;
+}
+
+.box1-part {
+    background-color: beige;
+    margin: 10px 10px;
+    padding: 10px;
+}
